@@ -1,0 +1,14 @@
+---
+:id: 102464868
+:submitters:
+- :name: Hwi Jin Jang
+  :email: janghwij@grinnell.edu
+- :name: Jun Seok Choi
+  :email: choijuns@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-29 23:21:05.903002000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-29 15:21:05.903002000 Z
+:status: processed
+:score: 100.0
